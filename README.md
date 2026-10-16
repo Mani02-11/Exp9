@@ -1,4 +1,4 @@
-# 📱 Experiment 9 – Data Persistence using SharedPreferences and SQLite
+<img width="1080" height="2460" alt="1000177366" src="https://github.com/user-attachments/assets/e881c7e0-f701-4082-9bdf-82e2e9119594" /># 📱 Experiment 9 – Data Persistence using SharedPreferences and SQLite
 
 ## Develop an Android Application Using SharedPreferences and SQLite Database
 
@@ -153,6 +153,8 @@ The preferences were successfully saved and retrieved from SharedPreferences.
 
 ✅ **Passed**
 
+<img width="400" height="660" alt="1000177366" src="https://github.com/user-attachments/assets/b6025fa4-95ce-4fe3-b329-1c2e1fa2d4e5" />
+
 ---
 
 ## Test Case 2 – Insert and View Records in SQLite Database
@@ -179,6 +181,8 @@ Records were inserted into the SQLite database and displayed correctly in the ou
 
 ✅ **Passed**
 
+<img width="400" height="660" alt="1000177368" src="https://github.com/user-attachments/assets/3900863e-22fd-4c1d-9214-52054d2ce4db" />
+
 ---
 
 ## Test Case 3 – Delete Record by USN and Clear Fields
@@ -203,3 +207,5 @@ Record deletion succeeded and fields were cleared as expected.
 ### Status
 
 ✅ **Passed**
+
+<img width="400" height="660" alt="1000177369" src="https://github.com/user-attachments/assets/572ab56c-48e5-4240-b38b-be80e8376b8e" />
