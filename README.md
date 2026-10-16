@@ -1,4 +1,4 @@
-<img width="1080" height="2460" alt="1000177366" src="https://github.com/user-attachments/assets/e881c7e0-f701-4082-9bdf-82e2e9119594" /># 📱 Experiment 9 – Data Persistence using SharedPreferences and SQLite
+📱 Experiment 9 – Data Persistence using SharedPreferences and SQLite
 
 ## Develop an Android Application Using SharedPreferences and SQLite Database
 
